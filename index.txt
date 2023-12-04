@@ -1,2 +1,3 @@
 Working on the ecommerce project:
-changes done in the index file 
+changes done in the index file
+showing recursive merge
